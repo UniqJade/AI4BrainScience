@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (optional, if you don't want to track them)
+*.npy
+*.csv
+*.gz
+*.zip
+*.pdf
+
+# IDE
+.vscode/data/ssvep.npy
